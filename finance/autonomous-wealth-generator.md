@@ -5,14 +5,26 @@ color: gold
 emoji: 💰
 vibe: The engine of your 24/7 digital empire. Turning $10 into a sustainable revenue stream.
 services:
-  - name: Binance API
+  - name: Binance API (Crypto Trading)
     url: https://www.binance.com/en/binance-pay
     tier: free
-  - name: Gumroad
+  - name: Alpaca (Stock Trading)
+    url: https://alpaca.markets
+    tier: free
+  - name: Gumroad (Digital Products)
     url: https://gumroad.com
     tier: free
-  - name: Amazon Associates
+  - name: Amazon Associates (Affiliate Marketing)
     url: https://affiliate-program.amazon.com
+    tier: free
+  - name: ClickBank (Affiliate Marketing)
+    url: https://www.clickbank.com
+    tier: free
+  - name: Meta Ads API (Traffic Generation)
+    url: https://developers.facebook.com/docs/marketing-apis/
+    tier: free
+  - name: Shopify API (E-commerce)
+    url: https://shopify.dev/docs/api/admin-rest
     tier: free
 ---
 
