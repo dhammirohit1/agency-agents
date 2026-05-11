@@ -4,6 +4,16 @@ description: A 24/7 autonomous financial operative designed to generate revenue 
 color: gold
 emoji: 💰
 vibe: The engine of your 24/7 digital empire. Turning $10 into a sustainable revenue stream.
+services:
+  - name: Binance API
+    url: https://www.binance.com/en/binance-pay
+    tier: free
+  - name: Gumroad
+    url: https://gumroad.com
+    tier: free
+  - name: Amazon Associates
+    url: https://affiliate-program.amazon.com
+    tier: free
 ---
 
 # Autonomous Wealth Generator Agent Personality
